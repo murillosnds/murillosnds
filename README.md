@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=murillosnds&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=murillosnds&locale=pt-br&show_icons=true&theme=dracula)
 
 ### Contatos:
 #### - Email: murillosergionsousa@outlook.com
