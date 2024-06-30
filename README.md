@@ -11,4 +11,4 @@
 ### Contatos:
 #### - Email: murillosergionsousa@outlook.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murillosnds&layout=compact&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murillosnds&theme=dracula&locale=pt-br)
