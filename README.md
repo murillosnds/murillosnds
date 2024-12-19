@@ -22,7 +22,9 @@ My favorite programming languages ​​and frameworks  </h1>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40" /> </a> </p>
 </div>
 
-<h2 align="center">Contacts</h2>
-<a href="https://www.youtube.com/@techroomofc" target="_blank"><img src="https://i.imgur.com/v7euHVD.png" target="_blank"></a>
-<a href = "mailto:murillosnds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<h2 align="right">
+Contacts and Social Media </h2>
+<div align="right">
+<a   href="https://www.youtube.com/@techroomofc" target="_blank"><img src="https://i.imgur.com/v7euHVD.png" target="_blank"></a>
+<a  href= "mailto:murillosnds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
