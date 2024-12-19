@@ -19,6 +19,7 @@ My favorite programming languages ​​and frameworks  </h1>
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /> </a> </p>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40" /> </a> </p>
 </div>
 
 <h2 align="center">Contacts</h2>
