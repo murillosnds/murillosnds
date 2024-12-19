@@ -20,5 +20,5 @@
 ##
 
 <div> 
-  <a href="https://www.youtube.com/@techroomofc" target="_blank"><img src="https://i.imgur.com/L4XylwY.png" target="_blank"></a>
+  <a href="https://www.youtube.com/@techroomofc" target="_blank"><img src="https://i.imgur.com/v7euHVD.png" target="_blank"></a>
 <a href = "mailto:murillosnds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
