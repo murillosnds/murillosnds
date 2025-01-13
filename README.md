@@ -1,30 +1,46 @@
-## Murillo's profile 💻
-**`Hi people`**
-### I'm a back-end programmer and content creator in my spare time!
+<h1 align="left">Murillo's profile 💻</h1>
 
-<div>
-  
-  
-  <img align="right" height="120" src="https://github-readme-stats.vercel.app/api/top-langs?username=murillosnds&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2"/>
+###
+
+<p align="left">Front-end Developer (client-side)</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🎯 Goals: Full-stack in 2026</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-<br>
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
-    <h2 align="center">
-My favorite programming languages ​​and frameworks  </h1>
+###
+
+<h3 align="center">✨ Social media and contacts</h3>
+
+###
+
+<img align="left" height="200" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif"  />
+
+###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /> </a> </p>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40" /> </a> </p>
+  <a   href="https://www.youtube.com/@techroomofc" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+  <a  href= "mailto:murillosnds@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
 </div>
 
-<h2 align="right">
-Contacts and Social Media </h2>
-<div align="right">
-<a   href="https://www.youtube.com/@techroomofc" target="_blank"><img src="https://i.imgur.com/v7euHVD.png" target="_blank"></a>
-<a  href= "mailto:murillosnds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+###
