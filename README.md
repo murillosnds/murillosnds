@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎯 Goals: Full-stack in 2026</p>
+<p align="left">🎯 Goals: Full-stack until 2026</p>
 
 ###
 
