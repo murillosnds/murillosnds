@@ -11,7 +11,7 @@ My name is Murillo, I'm a Brazilian programmer and I love technology and the are
   ##
  
 <div> 
-  <a href="https://www.youtube.com/@techroomofc" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.youtube.com/@techroomofc" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:murillosnds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   
