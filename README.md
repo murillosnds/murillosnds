@@ -12,7 +12,7 @@
   <a href = "mailto:murillosnds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## Meus projetos
-- [SeAquae Attractio Calculator]([https://github.com/VariableBee/seaborn-data-visualization](https://github.com/murillosnds/Aquae-Attractio-Calculator))
+- [Aquae Attractio Calculator](https://github.com/murillosnds/Aquae-Attractio-Calculator)
 
   
 </div>
