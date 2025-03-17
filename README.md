@@ -14,5 +14,8 @@
 ## Meus projetos
 - [Aquae Attractio Calculator](https://github.com/murillosnds/Aquae-Attractio-Calculator)
 
+<!-- GithubStats -->
+![Murillosnds GitHub stats](https://github-readme-stats.vercel.app/api?username=murillosnds&show_icons=true&theme=gotham)
+
   
 </div>
