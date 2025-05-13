@@ -9,7 +9,7 @@
 <!-- GithubStats -->
 ![Murillosnds GitHub stats](https://github-readme-stats.vercel.app/api?username=murillosnds&show_icons=true&theme=gotham)
 
-## Linguagens de Programação
+## Linguagens que utilizo
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 </div>
 
-## Frameworks
+## Ferramentas que utilizo
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
