@@ -5,6 +5,7 @@
 
 ## Meus projetos
 - [Aquae Attractio Calculator](https://github.com/murillosnds/Aquae-Attractio-Calculator)
+- [Python Playground](https://github.com/murillosnds/python-playground)
 
 
 <div align="left">
