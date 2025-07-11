@@ -4,8 +4,8 @@
   <a href = "mailto:murillosnds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## Meus projetos
-- [Aquae Attractio Calculator](https://github.com/murillosnds/Aquae-Attractio-Calculator)
 - [Python Playground](https://github.com/murillosnds/python-playground)
+- [Aquae Attractio Calculator](https://github.com/murillosnds/Aquae-Attractio-Calculator)
 
 
 <div align="left">
