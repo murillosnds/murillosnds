@@ -1,11 +1,9 @@
 # Murillo Sergio   
+## I'm a back-end developer. 👨‍💻💻
   
 <a href='mailto:murillosnds@gmail.com' target="_blank">
 <img alt='Gmail' src='https://img.shields.io/badge/EMAIL-100000?style=for-the-badge&logo=&logoColor=white&labelColor=black&color=black' style="margin-bottom: 5px;" />
 </a>
-  
-### Welcome!  
-I'm a back-end developer.
     
 ## Github Stats  
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
