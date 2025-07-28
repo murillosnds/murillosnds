@@ -1,33 +1,80 @@
-# Murillo Sergio
+# Murillo Sergio   
+  
+<a href='mailto:murillosnds@gmail.com' target="_blank">
+<img alt='Gmail' src='https://img.shields.io/badge/EMAIL-100000?style=for-the-badge&logo=&logoColor=white&labelColor=black&color=black' style="margin-bottom: 5px;" />
+</a>
+  
+### Welcome!  
+I'm a back-end developer.
+    
+## Github Stats  
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=murillosnds&show_icons=true&hide_border=true&hide=contribs,prs&cache_seconds=86400&theme=react" alt="Github Stats" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murillosnds&hide_border=true&layout=compact&theme=react" alt="Github Top Languages" width="35%">
+</div>
 
-<div> 
-  <a href = "mailto:murillosnds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<br/>
 
-## Meus projetos
+## Stacks
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
+  <img
+    src="https://skillicons.dev/icons?i=py"
+    alt="Github Stats"
+    width="80px"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=flask"
+    alt="Github Stats"
+    width="80px"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=mysql"
+    alt="Github Stats"
+    width="80px"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=django"
+    alt="Github Stats"
+    width="80px"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=html"
+    alt="Github Stats"
+    width="80px"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=css"
+    alt="Github Stats"
+    width="80px"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=js"
+    alt="Github Stats"
+    width="80px"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=git"
+    alt="Github Stats"
+    width="80px"
+  />
+</div>
+
+
+
+## My Projects 
+
 - [Python Playground](https://github.com/murillosnds/python-playground)
 - [Aquae Attractio Calculator](https://github.com/murillosnds/Aquae-Attractio-Calculator)
 
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murillosnds&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-## Stacks
-
-<div align="inline">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-</div>
-
-###
   
-</div>
+
+<br/>  
+
+
+  
+
+<br/>  
+
+
+<br />
