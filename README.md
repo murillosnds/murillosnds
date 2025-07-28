@@ -30,6 +30,11 @@
     alt="Github Stats"
     width="80px"
   />
+   <img
+    src="https://skillicons.dev/icons?i=nodejs"
+    alt="Github Stats"
+    width="80px"
+  />
   <img
     src="https://skillicons.dev/icons?i=django"
     alt="Github Stats"
