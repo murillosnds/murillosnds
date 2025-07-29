@@ -14,54 +14,14 @@
 <br/>
 
 ## Stacks
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
-  <img
-    src="https://skillicons.dev/icons?i=py"
-    alt="Github Stats"
-    width="80px"
-  />
-  <img
-    src="https://skillicons.dev/icons?i=flask"
-    alt="Github Stats"
-    width="80px"
-  />
-  <img
-    src="https://skillicons.dev/icons?i=mysql"
-    alt="Github Stats"
-    width="80px"
-  />
-   <img
-    src="https://skillicons.dev/icons?i=nodejs"
-    alt="Github Stats"
-    width="80px"
-  />
-  <img
-    src="https://skillicons.dev/icons?i=django"
-    alt="Github Stats"
-    width="80px"
-  />
-  <img
-    src="https://skillicons.dev/icons?i=html"
-    alt="Github Stats"
-    width="80px"
-  />
-  <img
-    src="https://skillicons.dev/icons?i=css"
-    alt="Github Stats"
-    width="80px"
-  />
-  <img
-    src="https://skillicons.dev/icons?i=js"
-    alt="Github Stats"
-    width="80px"
-  />
-  <img
-    src="https://skillicons.dev/icons?i=git"
-    alt="Github Stats"
-    width="80px"
-  />
-</div>
+<div style="display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;">
+  
+<img src="https://skillicons.dev/icons?i=py,flask,mysql,nodejs,django,html,css,js,git&theme=dark" alt="Github Stats" width="800px" />
 
+</div>
 
 
 ## My Projects 
