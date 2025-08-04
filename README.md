@@ -13,7 +13,7 @@
 </div>
     
 ## Github Stats  
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
+<div align= center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murillosnds&hide_border=true&layout=compact&theme=react" alt="Github Top Languages" width="60%">
 </div>
 
