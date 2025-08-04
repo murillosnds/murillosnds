@@ -7,8 +7,7 @@
     
 ## Github Stats  
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=murillosnds&show_icons=true&hide_border=true&hide=contribs,prs&cache_seconds=86400&theme=react" alt="Github Stats" width="60%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murillosnds&hide_border=true&layout=compact&theme=react" alt="Github Top Languages" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murillosnds&hide_border=true&layout=compact&theme=react" alt="Github Top Languages" width="60%">
 </div>
 
 <br/>
