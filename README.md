@@ -25,7 +25,7 @@
   justify-content: space-between;
   align-items: center;">
   
-<img src="https://skillicons.dev/icons?i=py,flask,mysql,nodejs,django,html,css,js,git&theme=dark" alt="Github Stats" width="800px" />
+<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,redis,mongodb,docker,aws,html,css,js,bootstrap,react,tailwind&theme=dark" alt="Github Stats" width="800px" />
 
 </div>
 
