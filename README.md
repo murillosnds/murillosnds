@@ -1,4 +1,4 @@
-# Murillo Sergio   
+# 💻 Murillo Sergio   
   
 <a href='mailto:murillosnds@gmail.com' target="_blank">
 <img alt='Gmail' src='https://img.shields.io/badge/EMAIL-100000?style=for-the-badge&logo=&logoColor=white&labelColor=black&color=black' style="margin-bottom: 5px;" />
@@ -12,13 +12,68 @@
 
 </div>
 
-## All Tech Stacks
+## My Tech Stacks
 <div style="display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;">
+
+Back-end
   
-<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,redis,mongodb,docker,aws,html,css,js,bootstrap,react,tailwind,&theme=dark" alt="Github Stats" width="800px" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo"  />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" alt="fastapi logo"  />
+</div>
+
+<br>
+
+Dev-ops
+  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="50" alt="apachekafka logo"  />
+</div>
+
+<br>
+
+Cloud
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="50" alt="amazonwebservices logo"  />
+</div>
+
+<br>
+
+Versioning
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+</div>
+
+<br>
+
+Front-end
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="50" alt="react logo"  />
+</div>
 
 </div>
 
