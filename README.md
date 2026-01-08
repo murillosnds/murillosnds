@@ -12,13 +12,13 @@
 
 </div>
 
-## Stacks
+## All Tech Stacks
 <div style="display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;">
   
-<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,redis,mongodb,docker,aws,html,css,js,bootstrap,react,tailwind&theme=dark" alt="Github Stats" width="800px" />
+<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,redis,mongodb,docker,aws,html,css,js,bootstrap,react,tailwind,&theme=dark" alt="Github Stats" width="800px" />
 
 </div>
 
