@@ -54,14 +54,6 @@ I’m interested in clean architecture, backend best practices, and continuously
 
 ## 🚀 Projects
 
-### 🔹 CAS
-Backend application developed with **Java and Spring Boot**, focused on RESTful APIs, database integration, and backend architecture concepts.
-
-**Techs:** Java, Spring Boot, PostgreSQL, Docker  
-🔗 https://github.com/murillosnds/CAS
-
----
-
 ### 🔹 Python Playground
 Repository used to practice Python fundamentals and backend-related concepts.
 
