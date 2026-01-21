@@ -1,113 +1,77 @@
-# 💻 Murillo Sergio   
-  
-<a href='mailto:murillosnds@gmail.com' target="_blank">
-<img alt='Gmail' src='https://img.shields.io/badge/EMAIL-100000?style=for-the-badge&logo=&logoColor=white&labelColor=black&color=black' style="margin-bottom: 5px;" />
+# 💻 Murillo Sergio
+
+<a href="mailto:murillosnds@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/EMAIL-black?style=for-the-badge" />
 </a>
 
-## 
+---
 
-<div align= center>
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&duration=3000&pause=1000&color=29F718&width=900&height=90&lines=Welcome+to+my+Github+profile+%F0%9F%96%90%EF%B8%8F;My+name's+Murillo+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+a+back-end+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%92%BB;Follow+me+to+follow+my+projects+%F0%9F%92%BB" alt="Typing SVG" /></a>
+## 👋 About Me
 
-</div>
+Back-end developer focused on **Java and Spring Boot**, with experience building RESTful APIs, working with relational and NoSQL databases, and developing containerized applications using Docker.
 
-## My Tech Stacks
-<div style="display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;">
+I’m interested in clean architecture, backend best practices, and continuously improving code quality. Currently focused on strengthening my backend skills and building solid, real-world projects.
 
-Back-end
-  
-<div style="display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo"  />
-  <img width="30" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" alt="fastapi logo"  />
-</div>
+---
 
-<br>
+## 🧠 Main Tech Stack (Backend Focus)
 
-Databases
+### Back-end
+- **Java**
+- **Spring Boot**
+- **Spring Data JPA**
+- **REST APIs**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
-</div>
+### Databases
+- **PostgreSQL**
+- **MySQL**
+- **MongoDB**
 
-<br>
+### DevOps & Messaging
+- **Docker**
+- **Apache Kafka**
 
-Dev-ops
-  
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="50" alt="apachekafka logo"  />
-</div>
+### Cloud
+- **AWS** (EC2, S3, basics)
 
-<br>
+---
 
-Cloud
+## 🛠️ Additional Knowledge
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
-</div>
+### Backend
+- **Python**
+- **FastAPI**
 
+### Front-end (basic knowledge)
+- HTML
+- CSS
+- JavaScript
+- React
+- Tailwind CSS
+- Bootstrap
 
-</div>
+---
 
-<br>
+## 🚀 Projects
 
-Versioning
+### 🔹 CAS
+Backend application developed with **Java and Spring Boot**, focused on RESTful APIs, database integration, and backend architecture concepts.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-</div>
+**Techs:** Java, Spring Boot, PostgreSQL, Docker  
+🔗 https://github.com/murillosnds/CAS
 
-<br>
+---
 
-Front-end
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="50" alt="react logo"  />
-</div>
+### 🔹 Python Playground
+Repository used to practice Python fundamentals and backend-related concepts.
 
-</div>
+**Techs:** Python  
+🔗 https://github.com/murillosnds/python-playground
 
+---
 
-## My Projects 
-
-- [CAS](https://github.com/murillosnds/CAS)
-- [Python Playground](https://github.com/murillosnds/python-playground)
-
-
-
-  
-
-<br/>  
-
-
-  
-
-<br/>  
-
-
-<br />
+## 📚 Currently Improving
+- Backend architecture
+- Clean code and best practices
+- Java ecosystem and Spring Boot
+- API design and persistence
