@@ -54,11 +54,11 @@ I’m interested in clean architecture, backend best practices, and continuously
 
 ## 🚀 Projects
 
-### 🔹 Python Playground
-Repository used to practice Python fundamentals and backend-related concepts.
+### 🔹 Java and Spring Boot Playground
+Repository used to practice Java fundamentals and backend-related concepts.
 
-**Techs:** Python  
-🔗 https://github.com/murillosnds/python-playground
+**Techs:** Java, Spring Boot  
+🔗 https://github.com/murillosnds/java-springboot-playground
 
 ---
 
