@@ -21,6 +21,7 @@ Tenho interesse em arquitetura limpa, melhores práticas de back-end e melhoria 
 - **Spring Boot**
 - **Spring Data JPA**
 - **REST APIs**
+- **JUnit**
 
 ### Databases
 - **PostgreSQL**
