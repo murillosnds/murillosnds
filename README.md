@@ -6,7 +6,7 @@
 
 ---
 
-## 👋 Sobre mim
+## 👋 Sobre mim | About me
 
 Desenvolvedor back-end focado em Java e Spring Boot, com experiência na criação de APIs RESTful, trabalho com bancos de dados relacionais e NoSQL e desenvolvimento de aplicativos em contêineres usando Docker.
 
