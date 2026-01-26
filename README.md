@@ -53,7 +53,7 @@ Tenho interesse em arquitetura limpa, melhores práticas de back-end e melhoria 
 ### 🔹 Java and Spring Boot Playground
 Repository used to practice Java fundamentals and backend-related concepts.
 
-**Techs:** Java, Spring Boot  
+**Techs:** Java, Spring Boot, JUnit 5 
 🔗 https://github.com/murillosnds/java-springboot-playground
 
 ---
