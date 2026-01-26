@@ -6,11 +6,11 @@
 
 ---
 
-## 👋 About Me
+## 👋 Sobre mim
 
-Back-end developer focused on **Java and Spring Boot**, with experience building RESTful APIs, working with relational and NoSQL databases, and developing containerized applications using Docker.
+Desenvolvedor back-end focado em Java e Spring Boot, com experiência na criação de APIs RESTful, trabalho com bancos de dados relacionais e NoSQL e desenvolvimento de aplicativos em contêineres usando Docker.
 
-I’m interested in clean architecture, backend best practices, and continuously improving code quality. Currently focused on strengthening my backend skills and building solid, real-world projects.
+Tenho interesse em arquitetura limpa, melhores práticas de back-end e melhoria contínua da qualidade do código. Atualmente, estou focado em fortalecer minhas habilidades de back-end e construir projetos sólidos e reais.
 
 ---
 
@@ -29,10 +29,6 @@ I’m interested in clean architecture, backend best practices, and continuously
 
 ### DevOps & Messaging
 - **Docker**
-- **Apache Kafka**
-
-### Cloud
-- **AWS** (EC2, S3, basics)
 
 ---
 
@@ -52,7 +48,7 @@ I’m interested in clean architecture, backend best practices, and continuously
 
 ---
 
-## 🚀 Projects
+## 🚀 Meus projetos | My Projects
 
 ### 🔹 Java and Spring Boot Playground
 Repository used to practice Java fundamentals and backend-related concepts.
