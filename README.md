@@ -51,11 +51,11 @@ Tenho interesse em arquitetura limpa, melhores práticas de back-end e melhoria 
 
 ## 🚀 Meus projetos | My Projects
 
-### 🔹 Java and Spring Boot Playground
-Repository used to practice Java fundamentals and backend-related concepts.
+### 🔹 SMA (School Management API)
+A project that simulates school administration. 
 
-**Techs:** Java, Spring Boot, JUnit 5 
-🔗 https://github.com/murillosnds/java-springboot-playground
+**Techs:** Java, Spring Boot, JUnit 5, PostgreSQL 
+🔗 https://github.com/murillosnds/SMA
 
 ---
 
