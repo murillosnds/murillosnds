@@ -51,11 +51,11 @@ Tenho interesse em arquitetura limpa, melhores práticas de back-end e melhoria 
 
 ## 🚀 Meus projetos | My Projects
 
-### 🔹 SMA (School Management API)
-A project that simulates school administration. 
+### 🔹 SPG | Strong Password Generator
+In this project, we created an API that generates a strong, random password. Ready for real-world use.
 
-**Techs:** Java, Spring Boot, JUnit 5, PostgreSQL 
-🔗 https://github.com/murillosnds/SMA
+**Techs:** Java, Spring Boot, Docker 
+🔗 https://github.com/murillosnds/SPG
 
 ---
 
