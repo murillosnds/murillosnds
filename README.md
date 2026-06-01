@@ -57,6 +57,12 @@ In this project, we created an API that generates a strong, random password. Rea
 **Techs:** Java, Spring Boot, Docker 
 🔗 https://github.com/murillosnds/SPG
 
+### 🔹 CAS | Calculator Aquae Sumptionis
+Daily water intake calculator! Quick and easy to use.
+
+**Techs:** Python, FastAPI, Docker 
+🔗 https://github.com/murillosnds/CAS
+
 ---
 
 ## 📚 Currently Improving
