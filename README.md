@@ -1,11 +1,5 @@
 # 💻 Murillo Sergio
 
-<a href="mailto:murillosnds@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/EMAIL-black?style=for-the-badge" />
-</a>
-
----
-
 ## 👋 Sobre mim | About me
 
 Desenvolvedor back-end focado em Java e Spring Boot, com experiência na criação de APIs RESTful, trabalho com bancos de dados relacionais e NoSQL e desenvolvimento de aplicativos em contêineres usando Docker.
