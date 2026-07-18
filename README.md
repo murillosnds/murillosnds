@@ -45,6 +45,11 @@ Tenho interesse em arquitetura limpa, melhores práticas de back-end e melhoria 
 
 ## 🚀 Meus projetos | My Projects
 
+### 🔹 TMA | Task Manager API
+
+**Techs:** Java, Spring Boot, JUnit/Mockito, Argon2
+🔗 https://github.com/murillosnds/TMA
+ 
 ### 🔹 SPG | Strong Password Generator
 In this project, we created an API that generates a strong, random password. Ready for real-world use.
 
