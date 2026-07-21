@@ -47,7 +47,7 @@ Tenho interesse em arquitetura limpa, melhores práticas de back-end e melhoria 
 
 ### 🔹 TMA | Task Manager API
 
-**Techs:** Java, Spring Boot, JUnit/Mockito, Argon2
+**Techs:** Java, Spring Boot, JUnit/Mockito, Docker, Argon2
 🔗 https://github.com/murillosnds/TMA
  
 ### 🔹 SPG | Strong Password Generator
